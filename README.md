@@ -1,4 +1,4 @@
 # Noor-demo
 This is my first Git Repository.
 <br>
-Author - Noor Fatima
+Author - Noor Fatima Irfan
